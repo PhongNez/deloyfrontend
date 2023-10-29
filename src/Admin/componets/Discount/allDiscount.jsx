@@ -173,7 +173,7 @@ const AllDiscount = () => {
 
                     >
                       {/* <DeleteIcon /> */}
-                      GO
+                      GET GO Phong
                     </Button>
                   </TableCell>
                 </TableRow>
